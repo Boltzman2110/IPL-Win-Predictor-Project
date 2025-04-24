@@ -57,7 +57,7 @@ IPL-Win-Predictor/
 
  1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/IPL-Win-Predictor.git
+git clone https://github.com/Boltzman2110/IPL-Win-Predictor.git
 cd IPL-Win-Predictor
 ```
 
