@@ -38,11 +38,7 @@ This project is built using:
 
 ---
 
- 📸 Demo Video
-
-> *(Insert a screenshot of your deployed app here or drag the image into the GitHub README once uploaded)*
-
----
+ 
 
  📂 Project Structure
 
@@ -121,8 +117,8 @@ streamlit run app.py
 ## 💬 Contact
 
 For suggestions or collaborations, feel free to connect:
-- [Your Name](https://github.com/your-username)
-- Email: your-email@example.com
+- [Panchal Sujal](https://github.com/Boltzman2110)
+- Email: sujalpanchal1206@gmail.com
 ```
 
 
